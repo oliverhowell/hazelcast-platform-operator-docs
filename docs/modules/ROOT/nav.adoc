@@ -1,6 +1,7 @@
 .Get Started
 * xref:index.adoc[Overview]
 * xref:whats-new.adoc[What's New in 5.13]
+* xref:ask-ai.adoc[]
 * xref:get-started.adoc[Deploy a Cluster]
 * xref:deploy-management-center.adoc[Deploy Management Center]
 * xref:connect-outside-kubernetes.adoc[]
